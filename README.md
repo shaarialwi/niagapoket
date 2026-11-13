@@ -31,3 +31,4 @@ Dates use Asia/Kuala_Lumpur. Pending/cancelled payments are excluded. Full refun
 ## Validation already completed
 JavaScript syntax; browser testing of pending QR to manual confirmation, cash/change, combined totals; logic checks for pending exclusion, refunds, backup schema and Malaysia date boundaries.
 
+
